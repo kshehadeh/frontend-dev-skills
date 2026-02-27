@@ -1,5 +1,5 @@
 ---
-name: next-cache-components
+name: next-cache-components-migration
 description: Next.js 16 cacheComponents diagnostics - resolving "Uncached data outside Suspense" errors, generateStaticParams requirements, cache boundary violations, migration patterns
 user-invocable: false
 ---
